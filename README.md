@@ -41,6 +41,4 @@ Hii i am Avinash . Currently pursuing B.Tech in Computer Science and Engineering
 </p>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-309%20Days-success?style=for-the-badge" />
-</p>
+

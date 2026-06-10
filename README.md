@@ -19,4 +19,15 @@ Hii i am Avinash . Currently pursuing B.Tech in Computer Science and Engineering
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/RAMADUGU_AVINASH/)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=avinash718&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=avinash718&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=avinash718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+# 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RAMADUGU_AVINASH?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+</p>

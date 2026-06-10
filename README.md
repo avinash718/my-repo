@@ -29,8 +29,11 @@ Hii i am Avinash . Currently pursuing B.Tech in Computer Science and Engineering
 
 # 🏆 LeetCode Profile
 
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/RAMADUGU_AVINASH?theme=dark&font=Nunito&ext=contest" />
+  <a href="https://leetcode.com/u/RAMADUGU_AVINASH/">
+    <img src="https://leetcard.jacoblin.cool/RAMADUGU_AVINASH?theme=dark&font=Nunito&ext=contest" />
+  </a>
 </p>
 
 <p align="center">

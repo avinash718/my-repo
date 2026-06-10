@@ -29,6 +29,7 @@ Hii i am Avinash . Currently pursuing B.Tech in Computer Science and Engineering
 
 # 🏆 LeetCode Profile
 
+# 🏆 LeetCode Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/RAMADUGU_AVINASH/">
@@ -37,7 +38,5 @@ Hii i am Avinash . Currently pursuing B.Tech in Computer Science and Engineering
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/RAMADUGU_AVINASH/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=RAMADUGU_AVINASH&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-309%20Days-success?style=for-the-badge" />
 </p>
